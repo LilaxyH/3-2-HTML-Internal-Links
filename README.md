@@ -1,7 +1,4 @@
-# 3-2-HTML-Internal-Links <br>
-
-## Video 
-[HTML Internal Links](https://youtu.be/c62_yTwex9E)<-- Make sure to watch this video first
+     v  (https://youtu.be/c62_yTwex9E)<-- Make sure to watch this video first
 
 ## Directions 
 ### Step 1 - Add internal links <br>
